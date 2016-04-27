@@ -22,8 +22,8 @@ ul{
 
 video{
 	width: 18rem;
-    margin: 0.9rem 1rem;
-	position: absolute;
+    margin: 0.9rem 1rem;/*
+	position: absolute;*/
 }
 
 footer{
@@ -88,8 +88,8 @@ footer{
 	cursor: pointer;
 	background-color: white; 
 	z-index: 10;
-    float: left;
-    margin-top: 13rem;
+    float: left;/*
+    margin-top: 13rem;*/
     position: relative;
     padding: 0;
 	width: 1.8rem;
@@ -105,7 +105,7 @@ footer{
 .open{
 	padding: 0.05rem 0.05rem;
 	margin-right: 0.7rem;
-	width: 3rem;
+	width: 4rem;
 	height: 2rem;
 	float:right;
 }
